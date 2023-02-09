@@ -7,3 +7,7 @@
 
 ## Main Repo
 https://github.com/Rudrabha/Wav2Lip
+
+
+## Paper
+https://arxiv.org/abs/2008.10010
