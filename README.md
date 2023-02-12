@@ -3,7 +3,7 @@
 ## 🦒 Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/wav2lip-colab/blob/main/wav2lip-colab.ipynb)
 
-## 🤗 Hugging Face 🚦WIP🚦
+## 🤗 Hugging Face
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/camenduru/wav2lip)
 
